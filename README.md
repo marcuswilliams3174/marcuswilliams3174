@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, my name is Marcus Williams III
 
-<!--
-**marcuswilliams3174/marcuswilliams3174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative research and systematic trading focused on:
 
-Here are some ideas to get you started:
+- signal generation
+- portfolio construction
+- risk normalization
+- trading analytics
+- Python-based research pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- Systematic Trading Research Platform
+- Portfolio Risk Analytics
+- Quantitative Dashboard Visualization
+
+## Stack
+
+Python • Pandas • NumPy • Matplotlib • Streamlit
