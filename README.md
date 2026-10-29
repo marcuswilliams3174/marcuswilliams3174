@@ -2,7 +2,7 @@
 
 **Quantitative research · Independent economic analysis · Python**
 
-I work at the intersection of systematic research and applied economics — building transparent signals, evaluating them rigorously, and turning public data into decision-useful analysis.
+I work at the intersection of systematic research and applied macroeconometric analysis — building transparent signals, evaluating them rigorously, and turning public data into decision-useful analysis.
 
 ---
 
